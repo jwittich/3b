@@ -8,6 +8,8 @@
     <tr bgcolor="#9acd32">
       <th style="text-align:left">TITLE</th>
       <th style="text-align:left">ARTIST</th>
+      <th style="text-align:left">GENRE</th>
+      <th style="text-align:left">YEAR</th>
     </tr>
     <xsl:for-each select="SETLIST/SONG">
     <tr>
