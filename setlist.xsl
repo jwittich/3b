@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="SETLIST.xml">
+<xsl:stylesheet version="1.0" xmlns:xsl="index.xml">
 <xsl:template match="/">
 <html>
 <body>
