@@ -11,7 +11,7 @@
       <th style="text-align:left">Genre</th>
       <th style="text-align:left">Year</th>
     </tr>
-    <xsl:for-each select="setlist/song">
+    <xsl:for-each select="SETLIST/SONG">
     <tr>
       <td><xsl:value-of select="TITLE"/></td>
       <td><xsl:value-of select="ARTIST"/></td>
