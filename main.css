@@ -1,0 +1,14 @@
+SETLIST {
+     color: white;
+     background-color : gray;
+     width: 100%;
+}
+
+
+ TITLE, ARTIST, GENRE, YEAR {
+     display : block;
+}
+ TITLE {
+     font-size : 25px;
+     font-weight : bold;
+} 
