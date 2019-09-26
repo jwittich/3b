@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="main.css"?>
+<SETLIST>
+  <SONG>
+    <TITLE> iMi</TITLE>
+    <ARTIST> Bon Iver</ARTIST>
+    <GENRE> Alternative/Indie </GENRE>
+    <YEAR> 2019 </YEAR> </SONG>
+  <SONG>
+    <TITLE> Love on the Weekend</TITLE>
+    <ARTIST> John Mayer</ARTIST>
+    <GENRE> Rock </GENRE>
+    <YEAR> 2016</YEAR> </SONG>
+  <SONG>
+    <TITLE> So Long See You Tomorrow</TITLE>
+    <ARTIST> Bombay Bicycle Club</ARTIST>
+    <GENRE> Alternative/Indie </GENRE>
+    <YEAR>2014 </YEAR> </SONG>
+  <SONG>
+    <TITLE> Where'd All the Time Go?</TITLE>
+    <ARTIST> Dr.Dog</ARTIST>
+    <GENRE> Alternative/Indie </GENRE>
+    <YEAR> 2010</YEAR> </SONG>
+  <SONG>
+    <TITLE> Banana Pancakes</TITLE>
+    <ARTIST> Jack Johnson</ARTIST>
+    <GENRE> Folk </GENRE>
+    <YEAR>2005 </YEAR> </SONG>
+  <SONG>
+    <TITLE> Juice </TITLE>
+    <ARTIST> Lizzo </ARTIST>
+    <GENRE> Pop </GENRE>
+    <YEAR> 2019</YEAR> </SONG>
+  <SONG>
+    <TITLE> Mother's Daughter</TITLE>
+    <ARTIST> Miley Cyrus</ARTIST>
+    <GENRE> Pop </GENRE>
+    <YEAR> 2019</YEAR> </SONG>
+  <SONG>
+    <TITLE> Streetcar</TITLE>
+    <ARTIST> Daniel Caesar</ARTIST>
+    <GENRE> R and B </GENRE>
+    <YEAR> 2015</YEAR> </SONG>
+  <SONG>
+    <TITLE> Parachutes</TITLE>
+    <ARTIST> Coldplay</ARTIST>
+    <GENRE> Britpop </GENRE>
+    <YEAR>2000 </YEAR> </SONG>
+  <SONG>
+    <TITLE> Talk</TITLE>
+    <ARTIST> Khalid, Disclosure</ARTIST>
+    <GENRE> Pop </GENRE>
+    <YEAR>2019 </YEAR> </SONG>
+
+</SETLIST>
