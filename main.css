@@ -20,8 +20,11 @@ HEADING {
 } 
 ARTIST{
      font-size : 23px;
-     color: #E2EA39 
+     color: #F1E915 ;
 }
 GENRE{
      color:#A7F6CA ;
+}
+YEAR{
+     color:##C17B5F ;
 }
