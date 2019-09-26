@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="index.xml">
-<xsl:template match="/">
-<html>
-<body>
+<html xsl:version="1.0" 
+xmlns:xsl="index.xml">
+<body style="font-family:Arial;font-size:12pt;background-color:#EEEEEE">
   <h2>Jenna's Setlist</h2>
   <table border="1">
     <tr bgcolor="#9acd32">
@@ -22,5 +21,4 @@
   </table>
 </body>
 </html>
-</xsl:template>
-</xsl:stylesheet>
+
