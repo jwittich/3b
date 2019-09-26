@@ -8,7 +8,7 @@ SETLIST {
 HEADING { 
      color: CECA9E; 
      font-size : 40px; 
-     background-color : 727A3F;
+     background-color : #727A3F;
 }
  HEADING, TITLE, ARTIST, GENRE, YEAR {
      display : block;
