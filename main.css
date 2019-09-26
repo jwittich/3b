@@ -1,14 +1,27 @@
 SETLIST {
-     color: white;
-     background-color : gray;
+     background-color : #ffdab9;
      width: 100%;
+     text-align: center;
+     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
-
- TITLE, ARTIST, GENRE, YEAR {
+HEADING { 
+     color: CECA9E; 
+     font-size : 40px; 
+     background-color : 727A3F;
+}
+ HEADING, TITLE, ARTIST, GENRE, YEAR {
      display : block;
 }
  TITLE {
      font-size : 25px;
      font-weight : bold;
+     color: #EA8339 ;
 } 
+ARTIST{
+     font-size : 23px;
+     color: #E2EA39 
+}
+GENRE{
+     color:#A7F6CA ;
+}
